@@ -6,5 +6,5 @@ description: >
   cloud infrastructure and code. To use this orb, you need to have a free
   Snyk account and an API token.
 display:
-  source_url: https://github.com/snyk/snyk-orb/
+  source_url: https://github.com/omawnakw/snyk-orb/
   home_url: https://snyk.co/udBRL
